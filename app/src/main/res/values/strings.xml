@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NetworkConnecting</string>
+    <string name="tip_connected">Connected Network:</string>
 </resources>
